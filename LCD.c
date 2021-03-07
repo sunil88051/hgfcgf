@@ -70,7 +70,7 @@ void main()
 	 {
      	sendtoLcd(0x80,"Welcome to");
 	 	sendtoLcd(0xc0,"Smart Dispenser");
-     	delay(3);
+     	
 	 }
 }
 
